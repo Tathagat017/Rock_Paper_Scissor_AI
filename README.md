@@ -8,6 +8,20 @@ Welcome to the Rock, Paper, Scissors web application powered by TensorFlow.js an
 
 ![Game Demo](demo.gif)
 
+
+![interface](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/7e0bfd3c-674c-4f89-99c4-34be871ecd89)
+
+![interface2](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/3c218982-10dd-4c23-994c-8018bec1c4ee)
+
+![allowWebcam](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/00b839d5-4fc7-4200-bc79-e9bad798dc30)
+
+![select_paper](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/4d4a5a7a-14fd-4180-92dc-cf1cafe7ca2c)
+
+![select_Rock](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/1efe9f2d-ec0b-4de6-b436-cfad82385eca)
+
+![select_scissor](https://github.com/Tathagat017/Rock_Paper_Scissor_AI/assets/114250830/f1909d7a-b547-47f2-b301-0a660fc01ea2)
+
+
 ## Features
 
 - **Gesture-based Selection**: Utilizes TensorFlow.js and the Google Teachable Machine model to detect hand gestures in real-time, allowing users to choose between Rock, Paper, and Scissors by simply moving their hand.
@@ -31,7 +45,7 @@ To run this application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-teachable-machine.git
+   git clone https://github.com/Tathagat017/Rock_Paper_Scissor_AI.git
    ```
 
 2. Navigate to the project directory:
