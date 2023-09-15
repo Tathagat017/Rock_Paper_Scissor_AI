@@ -112,6 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at your-email@example.com.
+If you have any questions or suggestions, please feel free to contact us at tathagatraj4@gmail.com
 
 Enjoy playing Rock, Paper, Scissors with real-time hand gestures! Have fun!
