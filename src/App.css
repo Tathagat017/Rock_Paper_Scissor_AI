@@ -1,0 +1,106 @@
+/* Add this CSS to your RockPaperScissors.js file or a separate CSS file */
+
+/* Style the container */
+
+.App {
+  background-color: #669ef1;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 0px;
+  padding: 5%;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+/* Style the header */
+h2 {
+  color: #333;
+}
+
+/* Style the webcam container */
+#webcam-container {
+  margin-top: 20px;
+}
+
+/* Style the buttons */
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+/* Style the timer and result text */
+.timer {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.result {
+  font-size: 24px;
+  margin-top: 10px;
+}
+
+/* Style the play again message */
+.play-again {
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+/* Style user and computer selections */
+.selections {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.selections p {
+  font-size: 18px;
+  margin: 5px;
+}
+
+/* Style the label container for predictions */
+#label-container {
+  margin-top: 20px;
+}
+
+/* Style the divs for predictions */
+#label-container div {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+/* Style the spinner animation */
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #007bff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+  margin: 10px auto;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
